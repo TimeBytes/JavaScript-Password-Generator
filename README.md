@@ -33,6 +33,9 @@ Live Deployed URL: https://timebytes.github.io/JavaScript-Password-Generator/
 OWASP for providing list of characters used in passwords  
 https://owasp.org/www-community/password-special-characters
 
+Starter code from University of Toronto Bootcamp Spot (HTML and CSS)  
+https://github.com/coding-boot-camp/friendly-parakeet
+
 ## License
 
 MIT License
