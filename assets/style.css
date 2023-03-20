@@ -29,7 +29,7 @@ header {
   padding-top: 0px;
   color: hsl(206, 17%, 28%);
 }
-
+/* beginning of the card section */
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
@@ -71,7 +71,7 @@ header {
   display: block;
   clear: both;
 }
-
+/* styling for the button */
 .btn {
   border: none;
   background-color: hsl(360, 91%, 36%);
@@ -117,7 +117,7 @@ button[disabled] {
   resize: none;
   overflow: hidden;
 }
-
+/* resize button font size depending on viewport size */
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
@@ -129,7 +129,7 @@ button[disabled] {
     font-size: 1rem;
   }
 }
-
+/* resize button font size depending on viewport size */
 @media (max-width: 500px) {
   .btn {
     font-size: 0.8rem;
